@@ -1,6 +1,6 @@
 # MINIDISC
 
-Arduino sketch to write names to a minidisc deck. It combines the remotes RM-D27M (regular) and RM-D10P (keyboard)
+Arduino sketch to write names to a minidisc deck. It combines the remotes RM-D27M (regular remote) and RM-D10P (expensive keyboard)
 
 Components:
 - Arduino nano
