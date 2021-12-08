@@ -25,5 +25,5 @@ Optional:
 - Connet 100R to pin 6 of arduino
 
 The code is based on the previous projects:
-https://github.com/normanbos/sony-minidisc-namer
-https://hackaday.io/project/165504-sony-minidisc-namer
+- https://github.com/normanbos/sony-minidisc-namer
+- https://hackaday.io/project/165504-sony-minidisc-namer
